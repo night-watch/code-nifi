@@ -1,0 +1,19 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-serviceDemo-api
+
+
+From: 'an unknown organization'
+  - Jedis (https://github.com/xetorthio/jedis) redis.clients:jedis:jar:2.7.2
+    License: MIT  (http://github.com/xetorthio/jedis/raw/master/LICENSE.txt)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Apache Commons Pool (http://commons.apache.org/proper/commons-pool/) org.apache.commons:commons-pool2:jar:2.4.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+

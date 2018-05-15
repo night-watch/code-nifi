@@ -1,0 +1,25 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-serviceDemo-api-nar
+
+
+From: 'an unknown organization'
+  - Jedis (https://github.com/xetorthio/jedis) redis.clients:jedis:jar:2.7.2
+    License: MIT  (http://github.com/xetorthio/jedis/raw/master/LICENSE.txt)
+
+From: 'Apache NiFi Project' (http://nifi.apache.org/)
+  - nifi-standard-services-api-nar (http://nifi.apache.org/nifi-nar-bundles/nifi-standard-services/nifi-standard-services-api-nar) org.apache.nifi:nifi-standard-services-api-nar:nar:1.3.0
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-serviceDemo-api (http://nifi.apache.org/nifi-nar-bundles/second-processors/nifi-serviceDemo-api) second:nifi-serviceDemo-api:jar:1.3.0
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Apache Commons Pool (http://commons.apache.org/proper/commons-pool/) org.apache.commons:commons-pool2:jar:2.4.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+

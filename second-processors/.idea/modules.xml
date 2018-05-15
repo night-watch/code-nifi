@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nifi-demo-nar/nifi-demo-nar.iml" filepath="$PROJECT_DIR$/nifi-demo-nar/nifi-demo-nar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-demo-processors/nifi-demo-processors.iml" filepath="$PROJECT_DIR$/nifi-demo-processors/nifi-demo-processors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-serviceDemo/nifi-serviceDemo.iml" filepath="$PROJECT_DIR$/nifi-serviceDemo/nifi-serviceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-serviceDemo-api/nifi-serviceDemo-api.iml" filepath="$PROJECT_DIR$/nifi-serviceDemo-api/nifi-serviceDemo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-serviceDemo-api-nar/nifi-serviceDemo-api-nar.iml" filepath="$PROJECT_DIR$/nifi-serviceDemo-api-nar/nifi-serviceDemo-api-nar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-serviceDemo-nar/nifi-serviceDemo-nar.iml" filepath="$PROJECT_DIR$/nifi-serviceDemo-nar/nifi-serviceDemo-nar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/second-processors.iml" filepath="$PROJECT_DIR$/second-processors.iml" />
+    </modules>
+  </component>
+</project>

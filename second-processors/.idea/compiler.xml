@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="nifi-demo-nar" />
+        <module name="nifi-demo-processors" />
+        <module name="nifi-service-demo" />
+        <module name="nifi-service-demo-api" />
+        <module name="nifi-service-demo-api-nar" />
+        <module name="nifi-service-demo-nar" />
+        <module name="nifi-serviceDemo" />
+        <module name="nifi-serviceDemo-api" />
+        <module name="nifi-serviceDemo-api-nar" />
+        <module name="nifi-serviceDemo-nar" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="nifi-demo-nar" target="1.8" />
+      <module name="nifi-demo-processors" target="1.8" />
+      <module name="nifi-service-demo" target="1.8" />
+      <module name="nifi-service-demo-api" target="1.8" />
+      <module name="nifi-service-demo-api-nar" target="1.8" />
+      <module name="nifi-service-demo-nar" target="1.8" />
+      <module name="nifi-serviceDemo" target="1.8" />
+      <module name="nifi-serviceDemo-api" target="1.8" />
+      <module name="nifi-serviceDemo-api-nar" target="1.8" />
+      <module name="nifi-serviceDemo-nar" target="1.8" />
+      <module name="second-processors" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
